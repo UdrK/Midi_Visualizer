@@ -1,7 +1,7 @@
 # MIDI Visualizer
 This is a p5.js sketch that, given a MIDI's file corresponding JSON, renders a vectorial graphical representation of such MIDI file.
 
-This sketch is inspired by how Harold D. Craft, Jr. [represented the one of first pulsar signals received](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-the-science-behind-joy-division-s-unknown-pleasures-album-cover/) in his work: "Radio Observations of the Pulse Profiles and Dispersion Measures of Twelve Pulsars".
+This sketch is inspired by how Harold D. Craft, Jr. [represented one of the first pulsar signals ever received](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-the-science-behind-joy-division-s-unknown-pleasures-album-cover/) in his work: "Radio Observations of the Pulse Profiles and Dispersion Measures of Twelve Pulsars".
 
 Here is an example of my sketch visualizing a selection of riffs from Pillars Of Serpents by Trivium:
 
