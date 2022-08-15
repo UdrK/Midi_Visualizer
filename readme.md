@@ -7,7 +7,7 @@ This sketch is inspired by how Harold D. Craft, Jr. [represented the one of firs
 
 Here is an example of my sketch visualizing a selection of riffs from Pillars Of Serpents by Trivium:
 
-
+![PillarsOfSerpents](https://user-images.githubusercontent.com/26527575/184626906-479ea34e-f46f-4129-befb-98f227db835f.png)
 
 For each note or chord in the midi file, a white line is rendered, starting from the top of the image, going down towards the bottom. Lines are closer together if notes/chords are short, conversely, they are further apart if notes/chords are long.
 Notes render lines that quickly become flat, chords instead result in lines that are "wavy" for longer. Peaks in the left portion of the line correspond to lower notes/chords, the opposite is true for peaks in the right portion of the line.
